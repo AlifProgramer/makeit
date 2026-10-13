@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#76110B"/>
+      <stop offset="1" stop-color="#4B0000"/>
+    </linearGradient>
+    <linearGradient id="ring" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#E8431A"/>
+      <stop offset="1" stop-color="#FF7A1A"/>
+    </linearGradient>
+    <radialGradient id="glow">
+      <stop stop-color="#FF7A1A" stop-opacity=".23"/>
+      <stop offset="1" stop-color="#FF7A1A" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect width="1200" height="630" fill="url(#bg)"/>
+  <circle cx="1100" cy="70" r="300" fill="url(#glow)"/>
+  <circle cx="100" cy="620" r="280" fill="url(#glow)" opacity=".45"/>
+  <circle cx="280" cy="315" r="154" fill="url(#ring)"/>
+  <circle cx="280" cy="315" r="147" fill="#FFF"/>
+  <text x="280" y="252" text-anchor="middle" fill="#73120C" font-family="Arial, sans-serif" font-size="34" font-weight="800" letter-spacing="9">MAKE</text>
+  <text x="270" y="350" text-anchor="middle" fill="#E8431A" font-family="Arial, sans-serif" font-size="112" font-weight="900" letter-spacing="-8">IT</text>
+  <text x="280" y="398" text-anchor="middle" fill="#73120C" font-family="Arial, sans-serif" font-size="34" font-weight="800" letter-spacing="9">FEST</text>
+  <text x="395" y="418" text-anchor="end" fill="#E8431A" font-family="Arial, sans-serif" font-size="25" font-weight="800" letter-spacing="3">III</text>
+  <text x="500" y="242" fill="#FFD7CB" font-family="Arial, sans-serif" font-size="20" font-weight="600" letter-spacing="9">WELCOME TO</text>
+  <text x="494" y="334" fill="#FFFFFF" font-family="Arial, sans-serif" font-size="65" font-weight="800" letter-spacing="-2">MAKE IT FEST III</text>
+  <text x="500" y="390" fill="#FFFFFF" fill-opacity=".78" font-family="Arial, sans-serif" font-size="27">Portal Resmi • Universitas Samudra</text>
+</svg>
